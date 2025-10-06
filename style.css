@@ -12,7 +12,7 @@ body{
     width: 48%;
 }
 
-.imglady{
+.url(../../bg.jpg){
     width: 80%;
     height: auto;
 }
