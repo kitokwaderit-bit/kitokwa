@@ -12,7 +12,7 @@ body{
     width: 48%;
 }
 
-.url(../../bg.jpg){
+.url(bg.jpg){
     width: 80%;
     height: auto;
 }
